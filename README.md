@@ -2,15 +2,15 @@
 
 Pedant: "person obsessed with detail or process"
 
-# Experience:
+## Experience:
 - Parsity full stack bootcamp
 
-#Currently:
+## Currently:
 - Parsity
 - Bitcoin and Lightning seminars/reading at Chaincode Labs
 - Running a Bitcoin node
 
-###Reach me on [LinkedIn](https://www.linkedin.com/in/damian-goodenough/)
+### Reach me on [LinkedIn](https://www.linkedin.com/in/damian-goodenough/)
 
 <!--
 **daGoodenough/daGoodenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
