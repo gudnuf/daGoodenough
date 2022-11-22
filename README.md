@@ -1,8 +1,8 @@
 <h1 align="center">Full Stack & Bitcoin Developer</h1>
 
-Pedant: 'person obsessed with detail or process'
+Pedant: "person obsessed with detail or process"
 
-#Experience:
+# Experience:
 - Parsity full stack bootcamp
 
 #Currently:
