@@ -1,4 +1,4 @@
-<h1 align="center">Full Stack & Bitcoin Developer</h1>
+<!-- <h1 align="center">Full Stack & Bitcoin Developer</h1>
 
 **Pedant**: "person obsessed with detail or process"
 
@@ -11,7 +11,7 @@
 - Running a Bitcoin node
 
 ### Reach me on [LinkedIn](https://www.linkedin.com/in/damian-goodenough/)
-
+ -->
 <!--
 **daGoodenough/daGoodenough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
